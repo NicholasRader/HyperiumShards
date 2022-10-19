@@ -1,0 +1,18 @@
+name: HyperiumShards
+version: '${project.version}'
+main: us.hyperiummc.hyperiumshards.HyperiumShards
+api-version: 1.17
+authors: [ ItzRade ]
+description: Hyperium Shard manipulation
+commands:
+  shard:
+    aliases:
+      - shards
+  upgrade:
+    aliases:
+      - upgrades
+      - upgrader
+  disenchant:
+    aliases:
+      - disenchant
+      - disenchanter

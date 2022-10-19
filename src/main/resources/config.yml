@@ -1,0 +1,25 @@
+ShardMenu:
+  Size: 27
+  Title: '&9&lSHARDS'
+  Upgrade:
+    Title: '&9&lUPGRADE'
+    Description:
+      - '&7Place &b9 Lost Shards &7of the same'
+      - '&7tier in the workbench to upgrade'
+      - '&7them to one of the next tier!'
+    Slot: 11
+  Disenchant:
+    Title: '&9&lDISENCHANT'
+    Description:
+      - '&7Place &brevealed shards &7of any tier'
+      - '&7in the workbench to disenchant them'
+      - '&7into tokens!'
+    Slot: 15
+UpgradeMenu:
+  Title: '&9&lUPGRADE SHARDS'
+DisenchantMenu:
+  Title: '&9&lDISENCHANT SHARDS'
+Shards:
+  T1: "&9&l*&f&l*&9&l* &3&lLOST SHARD &f&lT1 &9&l*&f&l*&9&l*"
+  T2: "&9&l*&f&l*&9&l* &3&lLOST SHARD &f&lT2 &9&l*&f&l*&9&l*"
+  T3: "&9&l*&f&l*&9&l* &3&lLOST SHARD &f&lT3 &9&l*&f&l*&9&l*"
